@@ -7,9 +7,7 @@ You can find SuperWoW [here](https://github.com/balakethelock/SuperWoW). It's [f
 Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstallation).
 
 
-
-
-| Name | SuperWoW Required/Added Feature(s) | Description |
+| Addon | SuperWoW Required/Added Feature(s) | Description |
 | - | - | - |
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate Castbars | Full UI replacement |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
@@ -18,5 +16,6 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | [TankPlates](https://github.com/MarcelineVQ/TankPlates) | SuperWoW required | Colors enemy Nameplates depending on if they're targeting the player |
 | [SuperWowCombatLogger](https://github.com/pepopo978/SuperWowCombatLogger) | SuperWoW required | Improved combatlogger for TurtleWoW (for LegacyPlayers/Monkeylogs)  |
 | [SuperAPI_Castlib](https://github.com/balakethelock/SuperAPI_Castlib) | SuperWoW reuired | Adds accurate castbars to any nameplate |
+
 
 > An addon is missing? Feel free to send a pullrequest or make an issue.
