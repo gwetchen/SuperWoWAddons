@@ -1,7 +1,7 @@
 # SuperWoWAddons
 
 ### What is SuperWoW?
-You can find SuperWoW [here](https://github.com/balakethelock/SuperWoW). It's [feature list](https://github.com/balakethelock/SuperWoW/wiki/Features) and [comapbility notes](https://github.com/balakethelock/SuperWoW/wiki/Compability-with-other-mods) can be found on it's github wiki.
+You can find SuperWoW [here](https://github.com/balakethelock/SuperWoW). It's [feature list](https://github.com/balakethelock/SuperWoW/wiki/Features) and [compatibility notes](https://github.com/balakethelock/SuperWoW/wiki/Compability-with-other-mods) can be found on it's github wiki.
 
 ### How do I install SuperWoW?
 Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstallation).
