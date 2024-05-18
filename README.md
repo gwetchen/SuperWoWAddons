@@ -9,13 +9,14 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 
 
 
-| Name | SuperWoW Required/Added Feature(s) | 
-| ---- | --- |
-| [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate Castbars |
-| [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars |
-| [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate Castbars |
-| [ShaguScan](https://github.com/shagu/shaguscan) | SuperWoW required |
-| [TankPlates](https://github.com/MarcelineVQ/TankPlates) | SuperWoW required |
-| [SuperWowCombatLogger](https://github.com/pepopo978/SuperWowCombatLogger) | SuperWoW required |
+| Name | SuperWoW Required/Added Feature(s) | Description |
+| - | - | - |
+| [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate Castbars | Full UI replacement |
+| [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
+| [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate Castbars | A collection of tweaks and enhancements to the default  interface  |
+| [ShaguScan](https://github.com/shagu/shaguscan) | SuperWoW required | A unit scanner to scan and track nearby players and npcs  |
+| [TankPlates](https://github.com/MarcelineVQ/TankPlates) | SuperWoW required | Colors enemy Nameplates depending on if they're targeting the player |
+| [SuperWowCombatLogger](https://github.com/pepopo978/SuperWowCombatLogger) | SuperWoW required | Improved combatlogger for TurtleWoW (for LegacyPlayers/Monkeylogs)  |
+| [SuperAPI_Castlib](https://github.com/balakethelock/SuperAPI_Castlib) | SuperWoW reuired | Adds accurate castbars to any nameplate |
 
 > An addon is missing? Feel free to send a pullrequest or make an issue.
