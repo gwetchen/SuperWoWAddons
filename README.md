@@ -9,7 +9,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 
 
 
-| Name | SuperWoW Required/Added functionality | 
+| Name | SuperWoW Required/Added Feature(s) | 
 | ---- | --- |
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate Castbars |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars |
