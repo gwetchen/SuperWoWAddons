@@ -16,6 +16,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 |  [SoloRaidTargetIcons](https://github.com/refaim/SoloRaidTargetIcons) | Enables raid target icons through the default Blizzard UI while not in a group |
 | [SuperAPI_Castlib](https://github.com/balakethelock/SuperAPI_Castlib) |  Adds accurate castbars to any nameplate |
 | [SuperWowCombatLogger](https://github.com/pepopo978/SuperWowCombatLogger) | Improved combatlogger for TurtleWoW (for LegacyPlayers/Monkeylogs)  |
+| [SpiritLinker](https://github.com/MarcelineVQ/SpiritLinker) |  Information bar for using Spirit Link  |
 | [TankPlates](https://github.com/MarcelineVQ/TankPlates) | Colors enemy Nameplates depending on if they're targeting the player |
 
 ### Addons that gain additional features with SuperWoW
@@ -24,6 +25,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate and TargetFrame Castbars | Full UI replacement |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
 | [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate and TargetFrame Castbars | A collection of tweaks and enhancements to the default  interface  |
+| [Sorgis Raid Marks](https://github.com/MarcelineVQ/sorgis_raid_marks) | More efficient marking |
 
 
 
