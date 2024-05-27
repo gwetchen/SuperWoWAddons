@@ -10,6 +10,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | Addon  | Description |
 | - | - |
 | [AutoMarker](https://github.com/MarcelineVQ/AutoMarker) | Automatically mark raid mobs |
+| [Cursive](https://github.com/pepopo978/Cursive) |  Curse tracker and multi curse assistant |
 | [MageHud](https://github.com/pepopo978/MageHud) | Mage Shield Display for Turtle WoW |
 | [ShaguScan](https://github.com/shagu/shaguscan) | Tracks and filters nearby players and npcs  |
 |  [SoloRaidTargetIcons](https://github.com/refaim/SoloRaidTargetIcons) | Enables raid target icons through the default Blizzard UI while not in a group |
