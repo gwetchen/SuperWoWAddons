@@ -25,7 +25,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate and TargetFrame Castbars | Full UI replacement |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
 | [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate and TargetFrame Castbars | A collection of tweaks and enhancements to the default  interface  |
-| [Sorgis Raid Marks](https://github.com/MarcelineVQ/sorgis_raid_marks) | More efficient marking |
+| [Sorgis Raid Marks](https://github.com/MarcelineVQ/sorgis_raid_marks) | More efficient marking | Raid mark targeting and assigning, improved fork making use of superwow |
 
 
 
