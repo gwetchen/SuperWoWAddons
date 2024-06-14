@@ -18,6 +18,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | [SuperWowCombatLogger](https://github.com/pepopo978/SuperWowCombatLogger) | Improved combatlogger for TurtleWoW (for LegacyPlayers/Monkeylogs)  |
 | [SpiritLinker](https://github.com/MarcelineVQ/SpiritLinker) |  Information bar for using Spirit Link  |
 | [TankPlates](https://github.com/MarcelineVQ/TankPlates) | Colors enemy Nameplates depending on if they're targeting the player |
+| [TrackTarget](https://github.com/MarcelineVQ/TrackTarget) |  Track any friendly you target which is assistable on the Minimap | 
 
 ### Addons that gain additional features with SuperWoW
 | Addon | Added Feature(s) | Description |
