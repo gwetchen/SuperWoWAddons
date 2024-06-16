@@ -23,6 +23,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 ### Addons that gain additional features with SuperWoW
 | Addon | Added Feature(s) | Description |
 | - | - | - |
+| [Decursive](https://github.com/MarcelineVQ/Decursive) | Improved Efficiency | This is a cleaning mod. Its job it to help a class that can remove debuffs, do it with ease. |
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate and TargetFrame Castbars | Full UI replacement |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
 | [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate and TargetFrame Castbars | A collection of tweaks and enhancements to the default  interface  |
