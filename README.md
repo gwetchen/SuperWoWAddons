@@ -29,7 +29,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | [ShaguDPS](https://github.com/shagu/ShaguDPS.git) | Track damage from minions such as totems | A lightweight damage meter |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
 | [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate and TargetFrame Castbars | A collection of tweaks and enhancements to the default  interface  |
-| [SimpleActionSets](https://github.com/pepopo978/SimpleActionSets) | Saves macros as you'd expect | Save action bars as sets that can be swapped out. |
+| [SimpleActionSets](https://github.com/pepopo978/SimpleActionSets) | Fixed to work with SuperWoW | Save action bars as sets that can be swapped out. |
 | [Sorgis Raid Marks](https://github.com/MarcelineVQ/sorgis_raid_marks) | More efficient marking | Raid mark targeting and assigning, improved fork making use of superwow |
 
 
