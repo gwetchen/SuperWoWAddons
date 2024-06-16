@@ -25,6 +25,7 @@ Pepopo wrote an install guide [here](https://github.com/pepopo978/SuperwowInstal
 | - | - | - |
 | [Decursive](https://github.com/MarcelineVQ/Decursive) | Improved Efficiency | This is a cleaning mod. Its job it to help a class that can remove debuffs, do it with ease. |
 | [pfUI](https://github.com/shagu/pfUI) | Accurate Nameplate and TargetFrame Castbars | Full UI replacement |
+| [ShaguDPS](https://github.com/shagu/ShaguDPS.git) | Track damage from minions such as totems | A lightweight damage meter |
 | [ShaguPlates](https://github.com/shagu/ShaguPlates) | Accurate Nameplate Castbars | Standalone pfUI Nampeplates |
 | [ShaguTweaks](https://github.com/shagu/ShaguTweaks) | Accurate Nameplate and TargetFrame Castbars | A collection of tweaks and enhancements to the default  interface  |
 | [Sorgis Raid Marks](https://github.com/MarcelineVQ/sorgis_raid_marks) | More efficient marking | Raid mark targeting and assigning, improved fork making use of superwow |
